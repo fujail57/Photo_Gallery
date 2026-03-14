@@ -33,7 +33,7 @@ The app fetches photos from a public API, displays them in a responsive grid, al
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/fujail57/Photo_Gallery
+git clone https://github.com/fujail57/Photo_Gallery.git
 cd photo-gallery
 npm install
 npm run dev
